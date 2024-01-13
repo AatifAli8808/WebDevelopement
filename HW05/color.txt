@@ -1,0 +1,4 @@
+logo-rgba(35,35,35,255) search-rgba(68,68,68,255)
+bg-rgba(26,26,26,255)
+this is demo-rgba(48,48,48,255)
+footer-rgba(30,30,30,255)
